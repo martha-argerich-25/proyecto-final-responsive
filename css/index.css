@@ -92,18 +92,15 @@ footer {
 
       }
 
-      .box{
-         display:flex;
-         padding-left: 0cm;
-         width: auto;
-      justify-content: center;
-       
-     }
+    
 
     
 .form{
   display:grid;
 }
+
+
+
 
 
 
